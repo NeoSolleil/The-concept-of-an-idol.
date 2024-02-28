@@ -1,7 +1,7 @@
 # The-concept-of-an-idol.
 
 今まで気になっていたことを色々試してみたのですが、どこにも見せる場がないので、ここに記そうと思います。  
-詳しくはQiitaに書きました  
+詳しくはQiitaに書きました。  
 https://qiita.com/NeoSoleil/items/23589d83900266b1f824
 
 # 以下はコードの説明です
