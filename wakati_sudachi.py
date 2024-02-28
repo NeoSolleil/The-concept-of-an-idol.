@@ -27,7 +27,7 @@ def tokenize_files_in_folder(folder_path, output_folder):
                 output_file.write(tokens)
 
 # 使用例
-input_folder_path = '/content/drive/MyDrive/ベロティカ/歌詞'
-output_folder_path = '/content/drive/MyDrive/ベロティカ/歌詞わかち'
+input_folder_path = 'linkco_kasi_toridasi.pyで生成したテキストファイルが入っているフォルダのPATH'
+output_folder_path = '分かち書きをしたテキストファイルを保存するフォルダのPATH'
 
 tokenize_files_in_folder(input_folder_path, output_folder_path)
